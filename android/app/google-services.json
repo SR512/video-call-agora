@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "729784385247",
+    "project_id": "video-call-ffd9d",
+    "storage_bucket": "video-call-ffd9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729784385247:android:3be43b0e6ca2acf918b36a",
+        "android_client_info": {
+          "package_name": "com.tiez.net.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729784385247-q36t906mac3m9n2k8vm5kcqsmfg01kkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiez.net.videocall",
+            "certificate_hash": "b7b77eda3c1d947771f4385c2340317b51d02941"
+          }
+        },
+        {
+          "client_id": "729784385247-paacddv7hjapus4371unv00i1s09j7jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TPQhLV1kUZRgLxrsy4emLwxzYe0kW_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729784385247-paacddv7hjapus4371unv00i1s09j7jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729784385247:android:bd05622bfde62ea718b36a",
+        "android_client_info": {
+          "package_name": "com.videocall.video_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729784385247-paacddv7hjapus4371unv00i1s09j7jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2TPQhLV1kUZRgLxrsy4emLwxzYe0kW_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729784385247-paacddv7hjapus4371unv00i1s09j7jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
